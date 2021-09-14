@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, I'm Vinícius! 👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ViniciusRossmann)](https://github.com/ViniciusRossmann)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinícius-nunes-863086a4/)](https://www.linkedin.com/in/vinícius-nunes-863086a4/)
+
 
 <!--
 **ViniciusRossmann/ViniciusRossmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
